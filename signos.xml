@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Pessoas de Áries são conhecidas por sua energia e entusiasmo. São líderes naturais, corajosos e cheios de iniciativa. Gostam de desafios e tendem a ser muito diretos em suas relações.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Taurinos são determinados e confiáveis. Valorizam a estabilidade e são pessoas práticas, pacientes e leais. Gostam de conforto e são conhecidos por sua apreciação pela beleza e pelo prazer.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Pessoas de Gêmeos são comunicativas, curiosas e versáteis. Têm uma natureza inquieta e adoram aprender coisas novas. São sociais e se adaptam facilmente a diferentes ambientes.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Cancerianos são sensíveis, leais e muito ligados à família. São empáticos e têm uma forte intuição. Valorizam muito o lar e tendem a proteger aqueles que amam.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leoninos são confiantes, criativos e generosos. Gostam de ser o centro das atenções e têm uma personalidade calorosa. São leais e tendem a ser líderes naturais.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virginianos são detalhistas, organizados e práticos. Têm uma mente analítica e gostam de ajudar os outros. São pessoas cuidadosas e valorizam o trabalho bem-feito.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Librianos são diplomáticos, charmosos e valorizam a harmonia. São sociáveis e gostam de manter boas relações. São conhecidos por sua busca pela justiça e equilíbrio.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpianos são intensos, determinados e misteriosos. São leais e têm uma grande profundidade emocional. Gostam de descobrir segredos e são conhecidos por sua paixão.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitarianos são otimistas, aventureiros e amam a liberdade. Têm um espírito explorador e adoram aprender sobre diferentes culturas. São pessoas espontâneas e francas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricornianos são disciplinados, ambiciosos e responsáveis. Valorizam o trabalho duro e tendem a ser muito organizados. Gostam de estabilidade e têm grande resistência para alcançar seus objetivos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquarianos são originais, independentes e inovadores. Têm uma mente aberta e gostam de pensar de forma diferente. São conhecidos por seu lado humanitário e por defenderem causas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Piscianos são sensíveis, empáticos e criativos. Têm uma grande imaginação e são muito intuitivos. Gostam de ajudar os outros e possuem uma conexão emocional com o mundo ao seu redor.</descricao>
+    </signo>
+</signos>
