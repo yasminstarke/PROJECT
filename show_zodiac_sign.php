@@ -3,7 +3,7 @@
 <div class="video-background">
     <video autoplay loop muted>
         <source src="assets/videos/zodiac_video.mp4" type="video/mp4">
-        Seu navegador não suporta o elemento de vídeo.
+        Lamento, seu navegador não suporta o vídeo.
     </video>
 </div>
 

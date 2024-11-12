@@ -12,7 +12,7 @@
 <div class="video-background">
     <video autoplay loop muted>
         <source src="assets/videos/zodiac_video.mp4" type="video/mp4">
-        Seu navegador não suporta o elemento de vídeo.
+        Lamento, seu navegador não suporta o vídeo.
     </video>
 </div>
 
@@ -23,10 +23,10 @@
         $data_nascimento = $_POST['data_nascimento'];
         $data_nascimento = date("d/m", strtotime($data_nascimento));
 
-        // Carrega o XML com os signos
+        // Carrega o XML com todas as caracteristicas que criei dos signos 
         $signos = simplexml_load_file("signos.xml");
 
-        // Essa é a lógica para encontrar o signo
+        // Aqui esta a lógica para encontrar o signo
         $signo_encontrado = null;
         foreach ($signos->signo as $signo) {
             $dataInicio = DateTime::createFromFormat('d/m', (string)$signo->dataInicio);
@@ -40,7 +40,7 @@
             }
         }
 
-        // Aqui vai exibir o resultado do signo
+        // Aqui ele4 vai exibir o resultado do signo
         if ($signo_encontrado) {
             echo "<h2 class='result-title'>Seu Signo é: " . $signo_encontrado->signoNome . "</h2>";
             echo "<p class='result-description'>" . $signo_encontrado->descricao . "</p>";
@@ -51,10 +51,10 @@
         echo '<a href="index.php" class="btn btn-primary">Voltar</a>';  // Botão de voltar com a mesma cor do tema
 
     } else {
-        // Caso a data de nascimento não tenha sido recebida, exibe o formulário
+        // Caso a data de nascimento não tenha sido recebida, mostra o formulário
         ?>
 
-        <h1>Descubra qual é o seu Signo do Zodíaco</h1> <!-- Exibe o título apenas quando o formulário está visível -->
+        <h1>Descubra qual é o seu Signo do Zodíaco</h1> <!-- Mostra o título apenas quando o formulárioo está visível -->
         
         <form id="signo-form" method="POST" action="">
             <div class="mb-3">
