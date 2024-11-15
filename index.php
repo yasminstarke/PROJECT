@@ -11,7 +11,7 @@
             top: 15%; /* Subi ainda mais o título em relação ao centro */
             left: 50%;
             transform: translate(-50%, -50%);
-            z-index: 10; /* Para garantir que o título fique acima do vídeo */
+            z-index: 10; /* título acima do vídeo */
             color: white; /* Cor do texto */
             text-align: center; /* Centraliza o texto */
             width: 100%; /* A largura do título será igual à largura da tela */
